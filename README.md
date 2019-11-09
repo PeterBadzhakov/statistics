@@ -1,1 +1,1 @@
-Miscellaneous statistics and probabilities code (R).
+Miscellaneous statistics and probability code (R).
